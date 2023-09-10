@@ -1,16 +1,14 @@
 ---
-name: 'Feedback:'
-about: Use this template to provide feedback about the Alix and Bodhi proposal
+name: 'Provide feedback'
+about: Click "Get started" to provide feedback about the Alix and Bodhi proposal
 title: 'Feedback: '
 labels: ''
 assignees: ''
 
 ---
 
-Thank you for considering providing feedback on the Alix and Bodhi proposal. The success of this proposal depends on constructive feedback and adoption by the 🌏🌍🌎 community.
+Thank you for providing feedback about the Alix and Bodhi proposal. Please follow the [community code of conduct](https://github.com/jhaaaa/alix-and-bodhi/blob/main/CODE_OF_CONDUCT.md) when providing feedback.
 
-Please follow the [community code of conduct](https://github.com/jhaaaa/alix-and-bodhi/blob/main/CODE_OF_CONDUCT.md) when providing feedback.
+### What is your feedback?
 
-## What is your feedback?
-
-Please be as specific as possible.
+Please make your feedback specific, actionable, and constructive.
