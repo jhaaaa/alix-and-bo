@@ -1,4 +1,4 @@
-# Code of conduct for this repo
+# Community code of conduct
 
 ## Purpose
 
