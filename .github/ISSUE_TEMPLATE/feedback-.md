@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-Thank you for providing feedback about the Alix and Bodhi proposal. Please follow the [community code of conduct](https://github.com/jhaaaa/alix-and-bodhi/blob/main/CODE_OF_CONDUCT.md) when providing feedback.
-
-### What is your feedback?
+Thank you for providing feedback about the Alix and Bodhi proposal.
 
 Please make your feedback specific, actionable, and constructive.
+
+What is your feedback?
