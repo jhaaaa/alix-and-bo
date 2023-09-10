@@ -1,2 +1,2 @@
 # alix-and-bodhi
-Toward a cross-cultural cast of characters for cryptography
+Toward a global cast of characters for cryptography
