@@ -12,16 +12,16 @@ Based on [this proposal](#proposal-toward-a-global-cast-of-characters-for-crypto
 | Davon | Dan, Dave, or David | A generic fourth participant. |
 | Eri | Erin | A generic fifth participant, but rarely used, as "E" is usually reserved for Evan. |
 | Evan | Eve or Yves | An eavesdropper, who is usually a passive attacker. While they can listen in on messages between Alix and Bodhi, they cannot modify them. In quantum cryptography, Evan may also represent the environment. |
-| Fayzi | Faythe | A trusted advisor, courier, or intermediary. Fayzi is used infrequently, and is associated with faith and faithfulness. Fayzi may be a repository of key service or courier of shared secrets. |
+| Fayzi | Faythe | A trusted advisor, courier, or intermediary. Fayzi is used infrequently and is associated with faith and faithfulness. Fayzi may be a repository of key services or courier of shared secrets. |
 | Frankie | Frank | A generic sixth participant. |
-| Gracen | Grace | A government representative.For example, Gracen may try to force Alix or Bodhi to implement backdoors in their protocols. Gracen may also deliberately weaken standards. |
+| Gracen | Grace | A government representative. For example, Gracen may try to force Alix or Bodhi to implement backdoors in their protocols. Gracen may also deliberately weaken standards. |
 | Heike | Heidi | A mischievous designer for cryptographic standards, but rarely used. |
 | Iva | Ivan | An issuer, mentioned first by Ian Grigg in the context of Ricardian contracts. |
 | Jude | Judy | A judge who may be called upon to resolve a potential dispute between participants. |
-| Malet | Mallory, Mallet, or Darth | A malicious attacker. Associated with Truva, an intruder. Unlike the passive Evan, Malet is an active attacker (often used in man-in-the-middle attacks), who can modify messages, substitute messages, or replay old messages. The difficulty of securing a system against a Malet is much greater than against an Evan. |
+| Malet | Mallory, Mallet, or Darth | A malicious attacker. Associated with Truva, an intruder. Unlike the passive Evan, Malet is an active attacker (often used in man-in-the-middle attacks) who can modify messages, substitute messages, or replay old messages. The difficulty of securing a system against a Malet is much greater than against an Evan. |
 | Mico | Michael or Mike | Used as an alternative to the eavesdropper Evan, from microphone. |
 | Niaj | Niaj | An alternative to the eavesdropper Evan in several South Asian nations. |
-| Oli | Olivia | An oracle, who responds to queries from other participants. Oli often acts as a "black box" with some concealed state or information, or as a random oracle. |
+| Oli | Olivia | An oracle, who responds to queries from other participants. Oli often acts as a "black box" with some concealed state or information or as a random oracle. |
 | Osher | Oscar | An opponent, similar to Malet, but not necessarily malicious. |
 | Pema | Peggy or Pat | A prover, who interacts with the verifier to show that the intended transaction has actually taken place. Pema is often found in zero-knowledge proofs. |
 | Rudo | Rupert | A repudiator, who appears for interactions that desire non-repudiation. |
@@ -36,8 +36,8 @@ For interactive proof systems, there are other characters:
 
 | <div style="width:110px">Updated name</div> | Original name | Description |
 | --- | --- | --- |
-| Artha and Merle | Arthur and Merlin | Merle provides answers, and Artha asks questions. Merle has unbounded computational ability (like the wizard Merlin). In interactive proof systems, Merle claims the truth of a statement, and Artha (like King Arthur), questions them to verify the claim. |
-| Pau and Ora | Paul (after Paul Erdős) and Carole (anagram of oracle) | Pau asks questions, and Ora provides answers. In the solution of the Twenty Questions problem, Pau asked questions and Ora answered them. Pau and Ora were also used in combinatorial games, in the roles of pusher and chooser. |
+| Artha and Merle | Arthur and Merlin | Merle provides answers, and Artha asks questions. Merle has unbounded computational ability (like the wizard Merlin). In interactive proof systems, Merle claims the truth of a statement, and Artha questions them to verify the claim. |
+| Pau and Ora | Paul (after Paul Erdős) and Carole (anagram of oracle) | Pau asks questions, and Ora provides answers. In the solution of the Twenty Questions problem, Pau asked questions, and Ora answered them. Pau and Ora were also used in combinatorial games in the roles of pusher and chooser. |
 | Artha and Beza | Arthur and Bertha | Artha is the left, black, or vertical player, and Beza is the right, white, or horizontal player in a combinatorial game. Additionally, Artha, given the same outcome, prefers a game to take the fewest moves. Contrarily, Beza prefers a game to take the most moves. |
 
 ## Proposal: Toward a global cast of characters for cryptography
@@ -46,7 +46,7 @@ For interactive proof systems, there are other characters:
 
 Who are Alice and Bob? They are the first two of what would eventually grow to become a comprehensive cast of characters used to illustrate cryptographic concepts. Specifically, these characters are used in discussions about entities trying to communicate securely using cryptographic systems and protocols.  
 
-For example, with the advent of this cast of characters, instead of saying “Person A sends a message to Person B,” we were now able to say “Alice sends a message to Bob,” humanizing and concretizing the scenario.
+For example, with the advent of this cast of characters, instead of saying, “Person A sends a message to Person B,” we were now able to say, “Alice sends a message to Bob,” humanizing and concretizing the scenario.
 
 The original Alice and Bob characters were first documented by Ron Rivest, Adi Shamir, and Leonard Adleman in their 1978 paper, "[A Method for Obtaining Digital Signatures and Public-key Cryptosystems](https://web.williams.edu/Mathematics/lg5/302/RSA.pdf)." The fuller cast of characters was fleshed out by Bob Schneier in his 1994 book, "[Applied Cryptography: Protocols, Algorithms, and Source Code in C](https://www.wiley.com/en-us/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119096726)."
 
@@ -77,7 +77,7 @@ I rather imagined we were moving forward, technically, into a future in which ei
 
 ### Vision becomes reality
 
-As just one example, today the [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS) protocol is used to encrypt data in transit between clients and servers. TLS supports a [range of key exchange mechanisms](https://en.wikipedia.org/wiki/Transport_Layer_Security#Key_exchange_or_key_agreement), including Elliptic Curve Diffie-Hellman (ECDHE) and Ephemeral Diffie-Hellman (DHE), both even more secure evolutions of the original Diffie-Hellman-Merkle key exchange.
+As just one example, today, the [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS) protocol is used to encrypt data in transit between clients and servers. TLS supports a [range of key exchange mechanisms](https://en.wikipedia.org/wiki/Transport_Layer_Security#Key_exchange_or_key_agreement), including Elliptic Curve Diffie-Hellman (ECDHE) and Ephemeral Diffie-Hellman (DHE), both even more secure evolutions of the original Diffie-Hellman-Merkle key exchange.
 
 When billions of people around the world use web and mobile apps to connect and communicate, most apps are using TLS to enable secure client-server communication.
 
@@ -87,7 +87,7 @@ Not only are we buying bread and working in "electronic offices," secure digital
 
 The original cast of Alice and Bob characters serves cryptography well and plays a role in helping people from around the world communicate about cryptographic topics.
 
-**This proposal suggests that we update character names to reflect not only the global impact of cryptography, but also the contributions a global community makes to this study and practice.**
+**This proposal suggests that we update character names to reflect not only the global impact of cryptography but also the contributions a global community makes to this study and practice.**
 
 **People can **_choose_** to use updated character names in place of original character names.**
 
@@ -104,13 +104,13 @@ Each updated name was selected based on the following criteria:
 
 - Lends itself to gender neutrality.  
 
-  This removes the need to specify gender unless it is integral to the topic. This can lead to simplified communication as people can use as single set of singular gender-neutral pronouns: they, them, their, and their forms.
+  This removes the need to specify gender unless it is integral to the topic. This can lead to simplified communication as people can use a single set of singular gender-neutral pronouns: they, them, their, and their forms.
 
   Use of singular gender-neutral pronouns is increasingly becoming the standard for technical documentation. See also: [Gender-neutral pronouns](https://developers.google.com/style/pronouns#gender-neutral-pronouns) in the "Google developer documentation style guide."
 
 ### Origins and meanings of updated names
 
-Here is the list of updated names along with their origins and meanings. I compiled names, origins, and meanings based on internet research. 
+Here is the list of updated names, along with their origins and meanings. I compiled names, origins, and meanings based on internet research. 
 
 I am certain this work contains flaws. For these unintentional flaws, I sincerely apologize in advance.
 
