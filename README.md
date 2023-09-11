@@ -4,17 +4,17 @@ Based on [this proposal](#proposal-toward-a-global-cast-of-characters-for-crypto
 
 | <div style="width:101px">Updated name</div> | Original name | Description (derived from [Alice and Bob](https://en.wikipedia.org/wiki/Alice_and_Bob)) |
 | --- | --- | --- |
-| Alix | Alice | Generic character who generally wants to exchange a message or cryptographic key with Bodhi. |
-| Bodhi | Bob | Generic character who generally wants to exchange a message or cryptographic key with Alix. |
+| Alix | Alice | Generic character who generally wants to exchange a message or cryptographic key with Bo. |
+| Bo | Bob | Generic character who generally wants to exchange a message or cryptographic key with Alix. |
 | Caro | Carol, Carlos, or Charlie | A generic third participant. |
 | Chung | Chuck or Chad | A third participant, usually of malicious intent. |
 | Cray | Craig | A password cracker, often encountered in situations with stored passwords. |
 | Davon | Dan, Dave, or David | A generic fourth participant. |
 | Eri | Erin | A generic fifth participant, but rarely used, as "E" is usually reserved for Evan. |
-| Evan | Eve or Yves | An eavesdropper, who is usually a passive attacker. While they can listen in on messages between Alix and Bodhi, they cannot modify them. In quantum cryptography, Evan may also represent the environment. |
+| Evan | Eve or Yves | An eavesdropper, who is usually a passive attacker. While they can listen in on messages between Alix and Bo, they cannot modify them. In quantum cryptography, Evan may also represent the environment. |
 | Fayzi | Faythe | A trusted advisor, courier, or intermediary. Fayzi is used infrequently and is associated with faith and faithfulness. Fayzi may be a repository of key services or courier of shared secrets. |
 | Frankie | Frank | A generic sixth participant. |
-| Gracen | Grace | A government representative. For example, Gracen may try to force Alix or Bodhi to implement backdoors in their protocols. Gracen may also deliberately weaken standards. |
+| Gracen | Grace | A government representative. For example, Gracen may try to force Alix or Bo to implement backdoors in their protocols. Gracen may also deliberately weaken standards. |
 | Heike | Heidi | A mischievous designer for cryptographic standards, but rarely used. |
 | Iva | Ivan | An issuer, mentioned first by Ian Grigg in the context of Ricardian contracts. |
 | Jude | Judy | A judge who may be called upon to resolve a potential dispute between participants. |
@@ -29,7 +29,7 @@ Based on [this proposal](#proposal-toward-a-global-cast-of-characters-for-crypto
 | Tran | Trent or Ted | A trusted arbitrator, who acts as a neutral third party. |
 | Truva | Trudy | An intruder. |
 | Vero | Victor or Vanna | A verifier, who requires proof from the prover. |
-| Wael | Walter | A warden, who may guard Alix and Bodhi. |
+| Wael | Walter | A warden, who may guard Alix and Bo. |
 | Wen | Wendy | A whistleblower with privileged access capable of divulging information. |
 
 For interactive proof systems, there are other characters:
@@ -121,7 +121,7 @@ I humbly request the community's feedback to [help improve upon this list and co
 | Alix | Origin: French<br/>Meaning: Noble | Alice |
 | Artha | Origin: Sanskrit<br/>Meaning: Riches, wealth | Arthur |
 | Beza | Origin: Ethiopian/Amharic<br/>Meaning: Payment, redemption | Bertha |
-| Bodhi | Origin: Sanskrit<br/>Meaning: Awakening, enlightenment | Bob |
+| Bo | Origin: Chinese<br/>Meaning: Wave | Bob |
 | Caro | Origin: Italian<br/>Meaning: Dear, precious | Carol, Carlos, or Charlie |
 | Chung | Origin: Korean<br/>Meaning: Gentle, still | Chuck or Chad |
 | Cray | Origin: Gaelic<br/>Meaning: Curly, prolific | Craig |
@@ -155,11 +155,11 @@ I humbly request the community's feedback to [help improve upon this list and co
 
 The success of this proposal depends on constructive feedback and adoption by the 🌏🌍🌎 community.
 
-To provide feedback on this proposal, please [open an issue](https://github.com/jhaaaa/alix-and-bodhi/issues).
+To provide feedback on this proposal, please [open an issue](https://github.com/jhaaaa/alix-and-bo/issues).
 
 If you support this proposal or are using the updated cast of characters in your work, consider st⭐️rring this repo.
 
-When contributing to this repo, be sure to follow the [community code of conduct](https://github.com/jhaaaa/alix-and-bodhi/blob/main/CODE_OF_CONDUCT.md).
+When contributing to this repo, be sure to follow the [community code of conduct](https://github.com/jhaaaa/alix-and-bo/blob/main/CODE_OF_CONDUCT.md).
 
 ## Gratitude
 
