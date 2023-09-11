@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The main goal of the `alix-and-bodhi` repository is to foster a community of collaboration and understanding. To ensure this, we have a few simple guidelines to make sure everyone feels safe and welcome.
+The main goal of the `alix-and-bo` repository is to foster a community of collaboration and understanding. To ensure this, we have a few simple guidelines to make sure everyone feels safe and welcome.
 
 ## Guidelines
 
