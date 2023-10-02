@@ -7,7 +7,7 @@ Based on [this proposal](#proposal-toward-a-global-cast-of-characters-for-crypto
 | Alix | Alice | Generic character who generally wants to exchange a message or cryptographic key with Bo. |
 | Bo | Bob | Generic character who generally wants to exchange a message or cryptographic key with Alix. |
 | Caro | Carol, Carlos, or Charlie | A generic third participant. |
-| Chung | Chuck or Chad | A third participant, usually of malicious intent. |
+| Chucx | Chuck or Chad | A third participant, usually of malicious intent. |
 | Cray | Craig | A password cracker, often encountered in situations with stored passwords. |
 | Davon | Dan, Dave, or David | A generic fourth participant. |
 | Eri | Erin | A generic fifth participant, but rarely used, as "E" is usually reserved for Evan. |
@@ -18,11 +18,11 @@ Based on [this proposal](#proposal-toward-a-global-cast-of-characters-for-crypto
 | Heike | Heidi | A mischievous designer for cryptographic standards, but rarely used. |
 | Iva | Ivan | An issuer, mentioned first by Ian Grigg in the context of Ricardian contracts. |
 | Jude | Judy | A judge who may be called upon to resolve a potential dispute between participants. |
-| Malet | Mallory, Mallet, or Darth | A malicious attacker. Associated with Truva, an intruder. Unlike the passive Evan, Malet is an active attacker (often used in man-in-the-middle attacks) who can modify messages, substitute messages, or replay old messages. The difficulty of securing a system against a Malet is much greater than against an Evan. |
+| Mallox | Mallory, Mallet, or Darth | A malicious attacker. Associated with Truva, an intruder. Unlike the passive Evan, Mallox is an active attacker (often used in man-in-the-middle attacks) who can modify messages, substitute messages, or replay old messages. The difficulty of securing a system against a Mallox is much greater than against an Evan. |
 | Mico | Michael or Mike | Used as an alternative to the eavesdropper Evan, from microphone. |
 | Niaj | Niaj | An alternative to the eavesdropper Evan in several South Asian nations. |
 | Oli | Olivia | An oracle, who responds to queries from other participants. Oli often acts as a "black box" with some concealed state or information or as a random oracle. |
-| Osher | Oscar | An opponent, similar to Malet, but not necessarily malicious. |
+| Osher | Oscar | An opponent, similar to Mallox, but not necessarily malicious. |
 | Pema | Peggy or Pat | A prover, who interacts with the verifier to show that the intended transaction has actually taken place. Pema is often found in zero-knowledge proofs. |
 | Rudo | Rupert | A repudiator, who appears for interactions that desire non-repudiation. |
 | Syd | Sybil | A pseudonymous attacker, who usually uses a large number of identities. For example, Syd may attempt to subvert a reputation system. |
@@ -131,7 +131,7 @@ I humbly request the community's feedback to [help improve upon this list and co
 | Beza | Origin: Ethiopian/Amharic<br/>Meaning: Payment, redemption | Bertha |
 | Bo | Origin: Chinese<br/>Meaning: Wave | Bob |
 | Caro | Origin: Italian<br/>Meaning: Dear, precious | Carol, Carlos, or Charlie |
-| Chung | Origin: Korean<br/>Meaning: Gentle, still | Chuck or Chad |
+| Chucx | Origin: None<br/>Meaning: None | Chuck or Chad |
 | Cray | Origin: Gaelic<br/>Meaning: Curly, prolific | Craig |
 | Davon | Origin: English<br/>Meaning: Form of David, meaning beloved, friend | Dan, Dave, or David |
 | Eri | Origin: Japanese<br/>Meaning: Blessed prize or reason | Erin |
@@ -142,7 +142,7 @@ I humbly request the community's feedback to [help improve upon this list and co
 | Heike | Origin: German<br/>Meaning: Estate rule | Heidi |
 | Iva | Origin: Slavic<br/>Meaning: Willow | Ivan |
 | Jude | Origin: English, Hebrew<br/>Meaning: Praised | Judy |
-| Malet | Origin: Old Norman<br/>Meaning: Bad, unpleasant | Mallory, Mallet, or Darth |
+| Mallox | Origin: None<br/>Meaning: None | Mallory, Mallet, or Darth |
 | Merle | Origin: Estonian<br/>Meaning: Sea | Merlin |
 | Mico | Origin: Native American (Choctaw)<br/>Meaning: Chief, leader | Michael or Mike |
 | Niaj | Origin: Sanskrit<br/>Meaning: Knowledge, leadership, fairness | Niaj |
