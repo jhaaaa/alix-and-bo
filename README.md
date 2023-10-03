@@ -7,7 +7,7 @@ Based on [this proposal](#proposal-toward-a-global-cast-of-characters-for-crypto
 | Alix | Alice | Generic character who generally wants to exchange a message or cryptographic key with Bo. |
 | Bo | Bob | Generic character who generally wants to exchange a message or cryptographic key with Alix. |
 | Caro | Carol, Carlos, or Charlie | A generic third participant. |
-| Chucx | Chuck or Chad | A third participant, usually of malicious intent. |
+| Chux | Chuck or Chad | A third participant, usually of malicious intent. |
 | Cray | Craig | A password cracker, often encountered in situations with stored passwords. |
 | Davon | Dan, Dave, or David | A generic fourth participant. |
 | Eri | Erin | A generic fifth participant, but rarely used, as "E" is usually reserved for Evan. |
@@ -131,7 +131,7 @@ I humbly request the community's feedback to [help improve upon this list and co
 | Beza | Origin: Ethiopian/Amharic<br/>Meaning: Payment, redemption | Bertha |
 | Bo | Origin: Chinese<br/>Meaning: Wave | Bob |
 | Caro | Origin: Italian<br/>Meaning: Dear, precious | Carol, Carlos, or Charlie |
-| Chucx | Origin: None<br/>Meaning: None | Chuck or Chad |
+| Chux | Origin: None<br/>Meaning: None | Chuck or Chad |
 | Cray | Origin: Gaelic<br/>Meaning: Curly, prolific | Craig |
 | Davon | Origin: English<br/>Meaning: Form of David, meaning beloved, friend | Dan, Dave, or David |
 | Eri | Origin: Japanese<br/>Meaning: Blessed prize or reason | Erin |
